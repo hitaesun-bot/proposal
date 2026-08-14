@@ -1,0 +1,6 @@
+{
+  "name": "LIVING TREND PROPOSAL",
+  "description": "Trend Research to Furniture Design Proposal — 글로벌 리빙 트렌드 분석 기반 가구 신제품 기획 및 디자인 제안 도구",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
